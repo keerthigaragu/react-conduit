@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "",
+      "posts": [
+        {
+          "post_id": "",
+          "posted_on": "",
+          "title": "",
+          "about": "",
+          "description": "",
+          "tags": [
+            "",
+            ""
+          ]
+        },
+        {
+          "post_id": "",
+          "posted_on": "",
+          "title": "",
+          "about": "",
+          "description": "",
+          "tags": [
+            "",
+            ""
+          ]
+        },
+        {
+          "post_id": "",
+          "posted_on": "",
+          "title": "",
+          "about": "",
+          "description": "",
+          "tags": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {}
+  ]
+}

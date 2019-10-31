@@ -1,0 +1,12 @@
+.feeds {
+  display: flex;
+  .global-feed-nav {
+    width: 900px;
+    padding: 40px;
+  }
+  .popular-tags {
+    padding: 40px;
+    width: 300px;
+    background-color: lightgray;
+  }
+}
